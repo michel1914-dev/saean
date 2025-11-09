@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cd Lobão - noite",
+    "artista": "Legião Urbana",
+    "estilo": "Rock Nacional",
+    "ano": 1986,
+    "preco": 129.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_752943-MLB49752737133_042022-F.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Cd Nenhum de nós cardume",
+    "artista": "Angélica",
+    "estilo": "Pop",
+    "ano": 1991,
+    "preco": 29.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_662793-MLB94808920020_102025-F.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Cd Rpm Quatro coiotes",
+    "artista": "Queen",
+    "estilo": "Rock Internacional",
+    "ano": 1981,
+    "preco": 149.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_702268-MLB95241987463_102025-F.jpg"
+  }
+]
